@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8d35353-ccae-4473-a91f-8329e4dd01c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/html/soundtrack.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/soundtrack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multimedia/soprano_op.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/multimedia/soprano_op.mp4" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
   <component name="ProjectId" id="1SoIzzW10Xb4dlOpgbQ1ucDrikS" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/multimedia" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572223787747</updated>
-      <workItem from="1572223788942" duration="3678000" />
+      <workItem from="1572223788942" duration="4660000" />
     </task>
     <servers />
   </component>
