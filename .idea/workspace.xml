@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8d35353-ccae-4473-a91f-8329e4dd01c4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/html/argumento.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/argumento.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/concepcion.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/concepcion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/escenarios.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/escenarios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/introduccion.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/introduccion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/personajes.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/personajes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/premios.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/premios.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/soundtrack.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/soundtrack.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html/temporadas.html" beforeDir="false" afterPath="$PROJECT_DIR$/html/temporadas.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572223787747</updated>
-      <workItem from="1572223788942" duration="960000" />
+      <workItem from="1572223788942" duration="1306000" />
     </task>
     <servers />
   </component>
